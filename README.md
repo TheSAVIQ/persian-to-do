@@ -1,2 +1,2 @@
-# persian-to-do-
+# persian-to-do
 you can see wahat do you have to do and check them ... 
